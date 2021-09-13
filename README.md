@@ -1,4 +1,4 @@
-# Trabalho---Chat-Multicast
+# Trabalho Chat-Multicast :: Michelli 661310
 > Para executar o projeto siga as instruções:
 ```
  $ cd src 
